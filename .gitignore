@@ -1,0 +1,39 @@
+# PowerShell and Windows
+*.ps1xml
+*_profile.ps1
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Output files
+*.csv
+*.json
+*.xml
+
+# Azure and sensitive data
+*.publishsettings
+*.azureProfile
+*secrets*
+*password*
+*key*
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Archive files
+*.zip
+*.rar
+*.7z
+
+# macOS
+.DS_Store
+
+# Local test files
+test-*
+local-*
+temp-*
