@@ -55,3 +55,5 @@ The script provides:
 - **No Policies Found**: If no policy compliance data exists, the script will exit gracefully with an informational message explaining possible reasons (no policies assigned, no resources, evaluation pending, or insufficient permissions)
 - **All Compliant**: If all policies are compliant, only the summary section will be displayed
 - **Large Policy Sets**: For subscriptions with many policies, only the first 15 non-compliant policies are shown in detail
+
+*** Last updated: August 21, 2025 ***
