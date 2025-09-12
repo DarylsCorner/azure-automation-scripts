@@ -1,12 +1,4 @@
-# Azur### 🛡️ [Policy Compliance](./policy-compliance/)
-Tools for monitoring and reporting on Azure Policy compliance across subscriptions.
-- **Get-PolicyComplianceReport.ps1** - Comprehensive policy compliance reporting tool
-
-### 📊 [Quota Management](./quota-management/)
-Scripts for managing and increasing Azure service quotas across subscriptions.
-- **Increase-AzureQuota.ps1** - Automated quota increase requests
-
-### 🚀 Future Categoriesion Scripts
+# Azure Automation Scripts
 
 A collection of PowerShell scripts and tools for Azure administration, compliance monitoring, and automation tasks.
 
@@ -16,11 +8,11 @@ A collection of PowerShell scripts and tools for Azure administration, complianc
 Tools for monitoring and reporting on Azure Policy compliance across subscriptions.
 - **Get-PolicyComplianceReport.ps1** - Comprehensive policy compliance reporting tool
 
-### � [Quota Management](./quota-management/)
+### 📊 [Quota Management](./quota-management/)
 Scripts for managing and increasing Azure service quotas across subscriptions.
 - **Increase-AzureQuota.ps1** - Automated quota increase requests
 
-### �🚀 Future Categories
+### 🚀 Future Categories
 - **Resource Management** - Scripts for Azure resource lifecycle management
 - **Cost Optimization** - Tools for cost analysis and optimization
 - **Security** - Security assessment and hardening scripts
